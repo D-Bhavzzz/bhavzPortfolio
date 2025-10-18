@@ -7,7 +7,7 @@ const Experience = () => {
       title: ' Tax Intern ',
       company: 'Vialto Partners',
       location: 'Bengaluru, India',
-      duration: 'September 2025',
+      duration: 'July 2025- Sep 2025',
       type: 'Internship',
       description: 'Working as a Tax Intern at Vialto Partners, assisting in the preparation and filing of income tax returns for global clients.',
       achievements: [
