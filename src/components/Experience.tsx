@@ -7,7 +7,7 @@ const Experience = () => {
       title: ' Tax Intern ',
       company: 'Vialto Partners',
       location: 'Bengaluru, India',
-      duration: 'Current',
+      duration: 'September 2025',
       type: 'Internship',
       description: 'Working as a Tax Intern at Vialto Partners, assisting in the preparation and filing of income tax returns for global clients.',
       achievements: [
@@ -24,7 +24,7 @@ const Experience = () => {
       title: 'Taxation and Accounting Intern',
       company: 'S&K Associates',
       location: 'Bengaluru, India',
-      duration: '2024',
+      duration: 'June 2024- July 2024',
       type: 'Internship',
       description: 'A one-month internship at a CA firm, where I gained hands-on experience in taxation and accounting. My responsibilities included preparing tax returns, financial statements, and assisting in both direct and indirect taxation processes, such as income tax and GST.',
       achievements: [
@@ -40,7 +40,7 @@ const Experience = () => {
       title: 'Marketing Intern',
       company: 'Bhumi Organization',
       location: 'Bengaluru, India',
-      duration: '2023',
+      duration: 'June 2023- July 2023',
       type: 'Internship',
       description: 'As a Social Media Marketing Intern at Bhumi Organization, I managed the NGO’s social media platforms, created content, and developed campaigns to boost engagement and raise awareness. I also analyzed performance metrics to improve outreach and support the organization’s mission.',
       achievements: [

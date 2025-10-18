@@ -17,7 +17,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className="mt-6 text-xl text-gray-600 leading-relaxed max-w-2xl">
-              A finance professional with a Chartered Accountancy background, solving complex financial and tax challenges with precision and insight. I specialize in analytical problem-solving and bring a detail-oriented approach to dynamic business environments.
+              I am a B.Com (Professional) graduate with an integrated Chartered Accountancy background, offering a solid foundation in accounting, finance, and taxation. With strong analytical skills and a detail-oriented approach to financial and tax problem-solving, I am eager to contribute effectively in a dynamic professional environment.
             </p>
             
           
@@ -29,7 +29,7 @@ const Hero = () => {
               <a href="https://www.linkedin.com/in/bhavana-suresh-5a4a47266" className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-shadow duration-200 text-gray-600 hover:text-blue-600">
                 <Linkedin size={24} />
               </a>
-              <a href="mailto:bhavanapinnusuresh@gmail.com" className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-shadow duration-200 text-gray-600 hover:text-blue-600">
+              <a href="mailto:psbhavana27@gmail.com" className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-shadow duration-200 text-gray-600 hover:text-blue-600">
                 <Mail size={24} />
               </a>
             </div>
