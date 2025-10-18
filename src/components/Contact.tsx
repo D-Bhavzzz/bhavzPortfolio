@@ -28,8 +28,8 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       title: 'Email',
-      value: 'bhavanapinnusuresh@gmail.com',
-      link: 'mailto:bhavanapinnusuresh@gmail.com'
+      value: 'psbhavana27@gmail.com',
+      link: 'mailto:psbhavana27@gmail.com'
     },
     {
       icon: <Phone size={24} />,
